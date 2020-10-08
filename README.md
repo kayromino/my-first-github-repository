@@ -1,4 +1,4 @@
 # my-first-github-repository
-Here is myfirst GitHub repository.
+Here is my first GitHub repository. Let's get started with GitHub
 
-README file added manually. This file was modified locally
+This line was modified manually during conflicts resolution
